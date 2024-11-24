@@ -1,0 +1,11 @@
+{
+    "token":"38146",
+    "symbol":"NIFTY26DEC2429000CE",
+    "name":"NIFTY",
+    "expiry":"26DEC2024",
+    "strike":"2900000.000000",
+    "lotsize":"25",
+    "instrumenttype":"OPTIDX",
+    "exch_seg":"NFO",
+    "tick_size":"5.000000"
+}
